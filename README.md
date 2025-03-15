@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I’m Koojana Nishgai Kariyawasam!<br>🚀 Computer Science undergraduate at the University of Westminster, passionate about software development and innovation.<br><br>🔹 Currently working on Math Jungle, a dyscalculia-friendly math app.<br>🔹 Love building with Java, Python, HTML, CSS, Figma, Unity, and SQL.<br>🔹 Always learning, always creating!<br><br>💡 “Code is like humor. When you have to explain it, it’s bad.” – Cory House 😆<br>
+# 👋 Hi, I’m Koojana Nishgai Kariyawasam!
+🚀 Computer Science undergraduate at the University of Westminster, passionate about software development and innovation.<br><br>🔹 Currently working on Math Jungle, a dyscalculia-friendly math app.<br>🔹 Love building with Java, Python, HTML, CSS, Figma, Unity, and SQL.<br>🔹 Always learning, always creating!<br><br>💡 “Code is like humor. When you have to explain it, it’s bad.” – Cory House 😆<br>
 
 
 ## 🌐 Socials:
